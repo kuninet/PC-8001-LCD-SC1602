@@ -1,0 +1,17 @@
+= LCD SC1602ボード用 sample
+
+* PC-8001上で動作するLCD SC1602ボード用 sampleプログラムです。
+
+|===
+|ファイル名|内容
+
+|LCDTST.CMT
+|LCDへ文字列を出力するN-BASICサンプル(CMT形式)
+
+|LCDTST.txt
+|LCDへ文字列を出力するN-BASICサンプル(テキスト形式)
+
+|LCDTST.CMT
+|LCDへ文字列を出力するN-BASICサンプル2。カタカナ入り(CMT形式)
+
+|===
