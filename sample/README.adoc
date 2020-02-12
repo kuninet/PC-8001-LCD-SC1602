@@ -11,6 +11,9 @@
 |LCDTST.txt
 |LCDへ文字列を出力するN-BASICサンプル(テキスト形式)
 
+|LCDTST.wav
+|LCDへ文字列を出力するN-BASICサンプル(CMT音声形式)
+
 |LCDTST.CMT
 |LCDへ文字列を出力するN-BASICサンプル2。カタカナ入り(CMT形式)
 
