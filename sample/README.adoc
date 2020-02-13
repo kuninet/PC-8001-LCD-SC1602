@@ -17,4 +17,10 @@
 |LCDTST.CMT
 |LCDへ文字列を出力するN-BASICサンプル2。カタカナ入り(CMT形式)
 
+|LCD-S.CMT
+|LCDへ文字列を出力/入力するTL/1-PCサンプル。(CMT形式)
+
+|LCD-S.txt
+|LCDへ文字列を出力/入力するTL/1-PCサンプル。(テキスト形式)
+
 |===
