@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PC8001-SC1602-rescue")(type "KiCad")(uri "${KIPRJMOD}/PC8001-SC1602-rescue.kicad_sym")(options "")(descr ""))
+)
